@@ -2647,3 +2647,17 @@ textarea.form-control{
 .form-control:focus::placeholder{
 	opacity: 1;
 }
+.logo-img{
+    width: 150px;
+}
+.new-header{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 999;   
+    background-color: white;
+}
+.main-banner{
+    margin-top:100px ;
+}

@@ -293,8 +293,8 @@ INDEX:
 	 border-radius: 30px;
 	 transition: all .3s;
 	 z-index: 1;
-	 color: var(--pbmit-blackish-color);
-	 background-color: var(--pbmit-white-color);
+	 color: var(--pbmit-white-color) ;
+	 background-color: var(--pbmit-blackish-color);
 }
 .pbmit-btn:after{
 	content: '\e8eb';
